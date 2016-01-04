@@ -11,9 +11,6 @@
     "bindings": "~1.2.1",
     "nan": "^2.0.0"
   },
-  "peerDependencies" : {
-    "orientjs" : "2.2.0"
-  },
   "author": "",
   "main": "./lib/index.js",
   "directories": {
